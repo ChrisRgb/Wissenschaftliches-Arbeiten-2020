@@ -1,5 +1,10 @@
 # Wissenschaftliches-Arbeiten-2020
 
+**Voraussetzungen**
+
+Für das Starten der Anwendung wird lediglich ein funktionsfähiger Browser (bestenfalls auf dem neusten Stand) benötigt.
+
+
 **Anwendung starten**
 
 
